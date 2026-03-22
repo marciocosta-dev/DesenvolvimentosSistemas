@@ -22,4 +22,4 @@ print("Com velocidade média de", velocidade, "km/h, o tempo estimado é:")
 
 print(f"{tempo_horas:.2f} horas ({tempo_dias:.2f} dias).")
 
-print("Boa sorte na missão astronaura")
+print("Boa sorte na missão astronaura!!!")
